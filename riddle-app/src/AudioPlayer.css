@@ -1,0 +1,11 @@
+audio {
+    width: 100%;
+    margin-top: 20px;
+  }
+
+h2 {
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 1.5rem;
+    border-bottom: 2px solid #5a4a42;
+    margin-bottom: 20px;
+}
