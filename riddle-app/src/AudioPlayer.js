@@ -11,7 +11,7 @@ function AudioPlayer({ audioSrc }) {
         autoPlay
         controls
       />
-      <h2>The next QR code is located near the entrance of the library on the statue side!</h2>
+      <h2>"The next QR code is located near the top of the amphitheater steps!</h2>
     </div>
   );
 }
